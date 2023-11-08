@@ -9,4 +9,5 @@ A Task Management Software is build with Oracle Apex Technology
 6. Go To apex workspace environment. If there is no environment, please install 23.1.3 version or higher on desktop.
 7. Import FalconAPK.zip file on your apex environment
 8. Run the application
+   
 To Uninstall: Open SQL*Plus and Run: @C:............\Uninstall.sql
